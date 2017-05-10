@@ -10,8 +10,6 @@ namespace ConsoleApplication10
     {
         static void Main(string[] args)
         {
-            int h = 10;
-            
         }
     }
 }
